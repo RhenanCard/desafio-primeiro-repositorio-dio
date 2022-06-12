@@ -8,8 +8,13 @@ Teste de Edição do README
 
 #### Projeto concluído!
 Pontos de dificuldade:
+
 git init pra iniciar a .git na pasta
+
 git status o tempo todo
+
 git add . ou -A
+
 git commit -m ""
+
 git push origin main
